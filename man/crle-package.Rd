@@ -6,7 +6,7 @@
 \alias{crle-package}
 \title{crle: What the Package Does (One Line, Title Case)}
 \description{
-What the package does (one paragraph).
+C backend for rle
 }
 \seealso{
 Useful links:
@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Ella Kaye \email{ella.m.kaye@warwick.ac.uk}
 
 }
 \keyword{internal}

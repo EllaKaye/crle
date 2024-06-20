@@ -4,9 +4,9 @@
 \name{crle-package}
 \alias{crle}
 \alias{crle-package}
-\title{crle: What the Package Does (One Line, Title Case)}
+\title{crle: C backend for rle}
 \description{
-C backend for rle
+A demonstration package including C code
 }
 \seealso{
 Useful links:

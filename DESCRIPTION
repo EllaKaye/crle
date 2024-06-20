@@ -1,9 +1,9 @@
 Package: crle
-Title: What the Package Does (One Line, Title Case)
+Title: C backend for rle
 Version: 0.0.0.9000
 Authors@R: 
     person("Ella", "Kaye", , "ella.m.kaye@warwick.ac.uk", role = c("aut", "cre"))
-Description: C backend for rle
+Description: A demonstration package including C code
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
